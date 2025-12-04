@@ -10,3 +10,5 @@ wheels/
 .venv
 .environments
 .env
+temp_auto_push.bat
+temp_interactive_push.bat
